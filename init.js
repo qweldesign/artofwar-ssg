@@ -11,3 +11,7 @@ import DrawerMenu from './js/drawerMenu.js';
 new DrawerMenu({
   primaryMenu: document.querySelector('.gNav__menu')
 });
+
+// Modal
+import Modal from './js/modal.js';
+new Modal();
